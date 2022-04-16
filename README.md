@@ -54,4 +54,6 @@ Big O notation gives us an industry-standard language to discuss the performance
 algorithms. Not knowing how to speak this language can make you stand out as an
 inexperienced programmer.
 
+Check out [this](https://www.bigocheatsheet.com/)
+
 ![Big-O Complexity Chart](./img/bigo.png)
