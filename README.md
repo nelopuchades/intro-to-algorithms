@@ -1,6 +1,6 @@
 # Intro to algorithms
 
-Repository based on Frontend Masters course `A Practial Guide to Algorithms with Javascript` - (Link)[https://frontendmasters.com/courses/practical-algorithms]
+Repository based on Frontend Masters course `A Practial Guide to Algorithms with Javascript` - [Link](https://frontendmasters.com/courses/practical-algorithms)
 
 ## Concepts
 
